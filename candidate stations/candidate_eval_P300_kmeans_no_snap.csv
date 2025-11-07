@@ -1,7 +1,7 @@
 ,value
 n_candidates,300.0
-coverage_fraction_demand,0.9997437825783232
-avg_weighted_distance_m,48.22531863584778
-median_distance_m,172.65132864611937
-num_pois_total,33669.0
-total_demand,1017.8615170623731
+coverage_fraction_demand,0.9997261646677987
+avg_weighted_distance_m,51.98488971326802
+median_distance_m,199.51352243257531
+num_pois_total,5926.0
+total_demand,1010.5227412183813
