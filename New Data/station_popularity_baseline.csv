@@ -1,0 +1,84 @@
+station_index,station_id,station_name,num_pois_closest,capacity
+37,1728,Portobello - Kings Road,2784,69
+40,1725,Edinburgh Zoo,2476,20
+14,1809,Royal Edinburgh Hospital,2064,23
+24,1757,Meggetland,1918,21
+74,253,Kings Building 2,1800,20
+13,1813,Milton Road - Edinburgh College,1799,24
+25,1756,Western General Hospital,1771,20
+11,1815,Sighthill - Edinburgh College,1393,17
+56,1038,South Trinity Road,1389,31
+17,1770,Ellersly Road,1254,23
+32,1739,Edinburgh Royal Infirmary,1151,23
+31,1744,Morningside Road,1102,20
+38,1727,Causewayside,1045,21
+23,1758,Queen Margaret University,766,17
+4,1824,Duke Street,755,43
+75,252,Kings Buildings 1,737,12
+9,1819,Heriot Watt - Edinburgh Business School,647,20
+15,1807,Gamekeeper's Road,644,20
+77,250,Victoria Quay,586,44
+12,1814,Abbeyhill,513,26
+8,1820,Heriot Watt - Student Accommodation,486,23
+29,1748,Colinton Road,460,18
+33,1738,Wester Coates Terrace,458,21
+67,264,Pollock Halls,451,42
+81,246,Royal Commonwealth Pool,410,20
+46,1097,Gladstone Terrace,373,14
+45,1098,Marchmont Crescent,367,25
+48,1093,Belford Road,349,19
+73,254,Kings Building 3,342,26
+19,1768,Thirlestane Road,312,20
+63,349,Orchard Brae House,214,17
+20,1767,Bruntsfield Links,203,34
+36,1729,McDonald Road,189,23
+28,1749,Dean Street,162,21
+30,1745,Scotland Street,127,25
+26,1754,Murrayfield Tram,120,26
+1,2265,Musselburgh Brunton Hall,107,29
+5,1823,Boroughmuir,106,25
+6,1822,Edinburgh Park Station,106,23
+44,1102,Haymarket Station,106,20
+34,1737,Inverleith Row,102,25
+27,1753,Waitrose Comely Bank,97,17
+62,358,Leith Walk,92,23
+70,259,St Andrew Square,91,22
+21,1765,Haymarket Terrace,90,23
+78,249,Fountainbridge,87,28
+58,1025,Dundee Terrace,83,25
+3,2259,Leith Walk North,80,32
+2,2263,Musselburgh Lidl,78,34
+68,262,Canonmills,77,28
+7,1821,Drumsheugh Place,75,27
+71,258,Stockbridge,75,21
+22,1763,Comely Bank Road,62,16
+43,1720,Dundas Street,58,22
+35,1730,East London Street,56,25
+54,1050,EICC,50,25
+65,289,Castle Street,41,38
+41,1722,Cramond Foreshore,35,38
+55,1039,Lothian Road,34,46
+51,1090,Hillside Crescent,33,22
+47,1096,West Crosscauseway,33,31
+49,1092,Dalry Road Lidl,27,17
+59,1024,Meadow Place,25,29
+53,1051,Warrender Park Road,18,15
+66,265,Meadows East,16,39
+0,2268,Picardy Place,15,31
+80,247,Charlotte Square,13,39
+42,1721,Tollcross,13,25
+18,1769,Brunswick Place,9,31
+69,260,Lauriston Place,8,24
+52,1052,Surgeons Hall,8,23
+50,1091,Holyrood Road,7,32
+60,1019,Grassmarket,6,14
+83,189,City Chambers,6,17
+64,296,Castle Terrace,5,26
+10,1818,Dynamic Earth,4,35
+39,1726,Simon Square,4,22
+16,1798,Chambers Street,3,25
+61,1017,Crichton Street,3,33
+84,183,Waverley Bridge,3,31
+79,248,Bristo Square,2,62
+82,225,Waverley Court,2,13
+57,1028,Hunter Square,1,23
